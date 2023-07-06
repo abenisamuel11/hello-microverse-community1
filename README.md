@@ -2,9 +2,7 @@
 
 
 <div align="center">
-  
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
+
 
   <h3><b>Microverse README Template</b></h3>
 
@@ -34,9 +32,7 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-
-
-# 📖 [eHllo microverse!] <a name="Hello microverse!"></a>
+# 📖 [Hello microverse!] <a name="Hello microverse!"></a>
 
 > Describe your project in 1 or 2 sentences.
 the project has h1 hello microverse with green color style 
